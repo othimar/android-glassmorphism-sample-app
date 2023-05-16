@@ -41,7 +41,7 @@
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Desing for the future"
+                    android:text="Design for the future"
                     android:textColor="#C8C8C8"
                     android:textSize="14sp"/>
             <androidx.appcompat.widget.AppCompatButton
